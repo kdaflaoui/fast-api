@@ -9,5 +9,5 @@ https://github.com/tiangolo/fastapi
 ### Install fastapi
 ```pip install fastapi```
 
-### Install uvicoen
+### Install uvicorn
 ```pip install "uvicorn[standard]"```
