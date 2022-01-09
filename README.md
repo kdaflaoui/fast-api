@@ -11,3 +11,6 @@ https://github.com/tiangolo/fastapi
 
 ### Install uvicorn
 ```pip install "uvicorn[standard]"```
+
+### Run the server 
+```uvicorn main:app --reload```
